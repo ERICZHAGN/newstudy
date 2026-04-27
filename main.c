@@ -7,7 +7,7 @@ int main(void)
 
 	while(1);
 
-	printf("Hello world!\n");//1111111111111111
+	printf("Hello world!\n");//111111111111111122222222222222222222
 
 	return 0;
 }
