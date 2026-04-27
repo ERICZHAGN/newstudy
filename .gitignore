@@ -1,0 +1,11 @@
+config.mk
+main.o
+Makefile
+include/exynos_4412.h
+include/exynos_setup.h
+lib/libc.a
+lib/libgcc.a
+lib/libm.a
+lib/libnosys.a
+start/start.o
+start/start.S
